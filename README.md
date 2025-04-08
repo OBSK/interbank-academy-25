@@ -8,7 +8,7 @@ Este es un reto técnico para procesar un archivo CSV que contiene transacciones
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/retotecnico-cobol
+   git clone https://github.com/OBSK/interbank-academy-25
 
 
 ### Consideraciones Finales
